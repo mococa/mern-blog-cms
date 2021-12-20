@@ -12,7 +12,7 @@ https://blog.mococa.tk/
 <details>
   <summary>Other repos used:</summary>
 
-  > https://github.com/mococa/mern-blog-cms
+  > https://github.com/mococa/mern-blog-api
 
   > https://github.com/mococa/mern-blog-frontend
 
